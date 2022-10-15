@@ -1,0 +1,52 @@
+body {
+  background-image: url(/images/hero.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* align-items: flex-start; */
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+}
+
+.container {
+  margin: 0rem auto;
+  width: 90%;
+  /* right: 3%; */
+  text-align: center;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 2.5rem;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+#txt-Input {
+  height: 6rem;
+  width: 18rem;
+  color: black;
+}
+
+#output {
+  height: 6.4rem;
+  width: 18rem;
+  border: 1px solid grey;
+  background: #fff;
+}
+
+#btn-translate {
+  margin: 1rem;
+}
+
+.note {
+  margin: 1rem;
+  background-color: #97aec4;
+  padding: 0.2rem 0rem;
+}
