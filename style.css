@@ -50,3 +50,18 @@ h1 {
   background-color: #97aec4;
   padding: 0.2rem 0rem;
 }
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  bottom: 0;
+  background-color: #97aec4;
+  width: fit-content;
+  margin: auto;
+  margin-top: 55vh;
+  padding-inline-start: 0px;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+}
