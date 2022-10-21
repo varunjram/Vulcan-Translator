@@ -2,7 +2,6 @@ body {
   background-image: url(/images/hero.webp);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -60,7 +59,7 @@ h1 {
   background-color: #97aec4;
   width: fit-content;
   margin: auto;
-  margin-top: 55vh;
+  margin-top: 45vh;
   padding-inline-start: 0px;
   padding: 0.5rem 1rem;
   border-radius: 1rem;
