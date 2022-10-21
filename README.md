@@ -5,6 +5,6 @@
 Translation App.
 
 Feature:
-This application translates English to Vulcans (fictional extraterrestrial humanoid species in the Star Trek universe). Since this is a free translation there is a limit to the number of types that you can check its 60/day and 5/hour translations.
+This application translates English to Vulcans (fictional extraterrestrial humanoid species in the Star Trek universe). Since this is a free translation there is a limit to the number of times that you can check its 60/day and 5/hour translations.
 
 ![preview](./images/preview.png)
